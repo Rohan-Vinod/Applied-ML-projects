@@ -1,2 +1,2 @@
 # Applied-ML-projects
-A showcase of my ML projects
+A repository showcasing my completed machine learning projects
